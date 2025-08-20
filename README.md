@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Automation in Kubernetes, Docker, & Factorio**
 
-- 👯 I’m looking to collaborate on [Open5Gs](https://github.com/open5gs/open5gs.git)
-
-- 🤝 I’m looking for help with [NetFlux5G](https://github.com/adaptivenetworklab/NetFlux5G)
-
 - 💬 Ask me about **automation or cloud related technologies**
 
 - 📫 How to reach me **muhlitfan88@gmail.com**
